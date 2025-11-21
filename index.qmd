@@ -7,3 +7,5 @@
 オリジナルのファイルのありかは、さまざまです。
 
 なお、このArchiveへのご意見、ご質問などは、GitHubのissuesにお寄せください。よろしくお願いもうしあげます。
+
+<https://github.com/419kfj/CAMCA_archive/issues>
