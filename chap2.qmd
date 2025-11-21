@@ -1,0 +1,122 @@
+# 対応分析研究会他、学会、研究会での報告
+
+## 対応分析研究会
+
+対応分析研究会での発表スライド（以下のSlideShareで公開） [https://www.slideshare.net/kazuofujimoto/presentations 　](https://www.slideshare.net/kazuofujimoto/presentations)　　　\
+なお（）内は、2020年、2021年、2022年度に実施
+
+## Greenacre,M.J 2017=2020（訳：藤本一男）『対応分析の理論と実践』オーム社
+
+-   第１回 2020/11/14 はじめに：翻訳にあたって)
+
+-   第２回 2021/01/22 第１章〜第３章)
+
+    -   <https://www.slideshare.net/slideshow/c-ai-p3jpno2/246378980>
+
+-   第３回 2021/02/18 R入門/Rで対応分析)
+
+    -   <https://www.slideshare.net/slideshow/c-ai-p3jpno3v10/246378914>
+
+-   第４回 2021/03/26 プロファイル空間の幾何学 第４、５章)
+
+    -   <https://www.slideshare.net/slideshow/c-ai-p3jpno4v120/246378857>
+
+-   第５回 2021/04/17 プロファイル空間の幾何学（２）第７、８、９章
+
+    -   <https://www.slideshare.net/slideshow/c-ai-p3jpno5v12/246375410>
+
+-   第６回 2021/05/22 三つの特徴的な事例（10章）と慣性の分解（11章）
+
+    -   <https://www.slideshare.net/slideshow/61011v16/250962948>
+
+-   第７回 2021/07/10 サプリメンタリ・ポイント（12章）、対応分析biplot（13章）
+
+    -   <https://www.slideshare.net/slideshow/202107101213/250962941>
+
+-   第８回 2021/08/27 推移と回帰の関係（14章）、行と列のクラスタリング（15章）
+
+    -   <https://www.slideshare.net/slideshow/202108271415/250962934>
+
+-   第９回 2021/10/09 第16、17章
+
+    -   <https://www.slideshare.net/slideshow/202110091617/250962933>
+
+-   番外 2021/11/06（学会発表予行演習回）
+
+## Le Roux & Rouanet2010=2021大隅・小野・鳰訳『多重対応分析』オーム社
+
+-   第10回 2022/01/08 　多重対応分析:MCA（18章）、 同時対応分析:JCA（19章）
+
+    -   <https://www.slideshare.net/slideshow/10202201081819a/250962927>
+
+    以下でMCAとしているのは、Le Roux & Rouanet2010=2021大隅他による翻訳書を指している。
+
+-   第11回（MCA第1回）2022/02/28 第１章、２章
+
+    -   <https://www.slideshare.net/slideshow/11v11-251305264/251305264>
+
+-   第12回（MCA第2回）2022/03/25 第３章 多重対応分析の方法（１）
+
+    -   <https://www.slideshare.net/slideshow/12-v1-0-pdf-brigitte-le-roux-henry-rouanet-2021/284219304>
+
+-   第13回（MCA第3回）2022/04/30 第３章 多重対応分析の方法（２）
+
+    -   <https://www.slideshare.net/slideshow/13-v1-pdf-3/284219361>
+
+-   第14回（MCA第4回）2022/06/04 第４章 構造化データ解析（１）
+
+    -   <https://www.slideshare.net/slideshow/14-v1-0-pdf-eda-tool/284219390>
+
+-   第15回（MCA第5回）2022/08/20 第４章 構造化データ解析（２）
+
+    -   <https://www.slideshare.net/slideshow/15-v1-0-pdf-14-4/284219484>
+
+-   第16回（MCA第6回）2023/01/23 speMCA、CSAを残差行列から展開する（１）
+
+    -   <https://www.slideshare.net/slideshow/16-v1-0-pdf-4-6/284219507>
+
+-   第17回（MCA第7回）2023/02/28 speMCA、CSAを残差行列から展開する（２）
+
+    -   <https://www.slideshare.net/slideshow/17-v1-0-pdf-svd-spemca-csa-csa-result/284219528>
+
+-   第18回（MCA第8回）2023/04/29 IDA(1)
+
+    -   <https://www.slideshare.net/slideshow/18-idav1-1-pdf-ida/284219548>
+
+-   第19回（MCA第9回）2023/06/09 IDA−2 IDAとGDA/MCAの関係 IDA(2)
+
+    -   <https://www.slideshare.net/slideshow/19-v1-0-pdf-18/284219575>
+
+-   第20回（MCA第10回）2023/08/30　IDA(3)
+
+    -   <https://www.slideshare.net/slideshow/20-v1-0-pdf/284219607>
+
+-   第21回（MCA第11回）
+
+-   第22回（MCA第12回）
+
+## 日本社会学会
+
+-   2019　「」
+
+    -   <https://www.slideshare.net/slideshow/jss20191006-ts13-gdaopen/180523742>
+
+-   2020
+
+-   2021　94回大会「」
+
+    -   <https://www.slideshare.net/slideshow/94v10/250653888>
+
+-   2022　95回大会「」
+
+    -   <https://www.slideshare.net/slideshow/95v14pdf/255918872>
+
+-   
+
+    ## 2024
+
+-   
+
+    ## 2025
+
+## 他研究会

@@ -1,0 +1,14 @@
+# CA/MCA関連の仮訳
+
+## Le Roux & Rouanet, 調査票の幾何学的解析
+
+-   <http://133.167.73.14/~kazuo/LeRoux_lesson/>
+
+## Johs.Hjellbrekke, 社会科学のための多重対応分析
+
+-   <http://133.167.73.14/~kazuo/MCA4SS_jp/>
+-   PWをかけてあります。閲覧、ご希望の方は、ご一報ください。
+
+## 『組合せ論的推定』はじめに、の部分訳
+
+-  <http://133.167.73.14/~kazuo/CombiInf_GDA/>

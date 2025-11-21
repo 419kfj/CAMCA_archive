@@ -1,0 +1,45 @@
+# 津田塾大学紀要に書いた対応分析、カテゴリカルデータ分析
+
+## CARMEでの報告
+
+-   2015, On publishing the Japanese translation of "Applied correspondence analysis" and its comment part\` ,CARME2015, Naples
+-   2019, "Landscape of CA in Japan and educational perspective", CARME 2019, Capetown
+    -   <https://www.slideshare.net/slideshow/landscape-of-ca-in-japan-and-educational-perspective/251039202>
+-   2023,　
+    -   <https://speakerdeck.com/419kfj/extend-the-use-of-supplemental-variables-in-gda-by-applying-machine-learning-to-the-free-text-descriptive-response-portion-and-combining-it-with-mca-analysis>
+
+## 津田塾大学紀要への投稿
+
+-   2017,「対応分析のグラフを適切に解釈する条件－StandardCoordinate,Principal Coordinateを理解する」『津田塾大学紀要』第49号、pp141-153
+
+    -   <https://tsuda.repo.nii.ac.jp/records/114>
+
+-   2018,「プログラミング言語Rにおける２つのmosaicplotと日本語、多言語表示」『津田塾大学紀要』第50号、pp129-146
+
+    -   <https://tsuda.repo.nii.ac.jp/records/141>
+
+-   2019,「『Supplymentary』変数から多重対応分析（MCA）を考える―幾何学的データ解析（GDA）と多重対応分析（MCA）―」『津田塾大学紀要』第51号、pp156-167
+
+    -   <https://tsuda.repo.nii.ac.jp/records/219>
+
+-   2020,「対応分析は＜関係＞をどのように表現するのか ― CA/MCAの基本特性と分析フレームワークとしてのGDA―」『津田塾大学紀要』第52号,pp169-184
+
+    -   <https://tsuda.repo.nii.ac.jp/records/266>
+
+-   2022,「日本における「対応分析」受容の現状を踏まえて、EDA（探索的データ解析）の中に対応分析を位置付け、新たなデータ解析のアプローチを実現する」,『津田塾大学紀要』第54号、pp172-193付録
+
+    -   <https://tsuda.repo.nii.ac.jp/records/345>
+
+-   2023,「『幾何学的データ解析』は分散をどのように分解するのか－GDAtoolsを用いて原理的な確認を行う－」『津田塾大学紀要』第55号,119−139
+
+    -   <https://tsuda.repo.nii.ac.jp/records/366>
+
+-   2024, 「帰納的データ解析（IDA）から見る「統計的検定」へのもう一つのアプローチ」『津田塾大学紀要』第56号,43−64
+
+    -   <https://tsuda.repo.nii.ac.jp/records/2000046>
+
+-   2025,「R.Q（リサーチ・クエスチョン）構築という視点から伝統的検定手法とベイジアン推定を比較する －rstanの生成量(generated quantities)に注目しながらー」『津田塾大学紀要』第57号，63−80
+
+    -   <https://tsuda.repo.nii.ac.jp/records/2000113>
+
+-   2026,「多重対応分析（MCA）が可能にする関係論アプローチ ― 二つの空間が生成する分析の場 ―」『津田塾大学紀要』第58号（2025/09/30 入稿済み）

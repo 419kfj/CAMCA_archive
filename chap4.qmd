@@ -1,0 +1,15 @@
+# MCAの応用
+
+## NLP（言語処理学会）
+
+-   藤本一男・大畑和也, 2023,「多重対応分析とアスペクトベース感情分析を組み合わせた受講者満足度調査データの分析手法の開発」『言語処理学会 第29回年次大会 発表論文集』,255-260
+    -   <https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q1-11.pdf>
+-   根本颯汰・藤本一男, 2024,「クラスタリングによる自由記述回答の要約と選択肢回答空間に射影による解答群間の連関の可視化」『言語処理学会 第30回年次大会 発表論文集』455-460
+    -   <https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P2-1.pdf>
+-   根本 颯汰 (法政大), 土井 智暉 (東大), 花田 智洋 (NICT), 谷中 瞳 (東大), 彌冨 仁 (法政大), 藤本 一男 (NICT/津田塾大), 2025,「自由記述回答から選択肢設問を生成するモデルの構築とMCA参照空間への射影による生成内容の解釈」『言語処理学会 第31回年次大会 発表論文集』,2129-2134
+    -   <https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q5-14.pdf>
+
+## NICT（国立情報通信研究機構）
+
+-   藤本一男・根本颯汰,2025, 「構造化データ解析で選択肢回答空間と機械学習による自由記述部分のクラスタリング結果を結合する － CYDER受講者アンケートの分析手法の開発と今後の課題 －」『[情報通信研究機構研究報告](https://www.nict.go.jp/data/research-report/index.html)』2025/01,Vol. 70 No. 2
+    -   <https://www.nict.go.jp/publication/shuppan/kihou-journal/houkoku70-2_HTML/index.html>

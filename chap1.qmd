@@ -1,0 +1,33 @@
+# SSJDA計量分析セミナー2025夏
+
+![計量分析セミナー2025夏 ポスター](summer2025.png){fig-align="left" width="300"}
+
+## はじめに
+
+-   [シラバス](./pdfs/9_4_2025summerシラバス.pdf)
+-   [01_0はじめに.pdf](./pdfs/01_0はじめに.pdf)
+-   [01_1CAMCAの事例.pdf](./pdfs/01_1CAMCAの事例.pdf)
+
+## CAの数理
+
+-   [02_ベクトル行列演算とCAの数理V1.5.pdf （12:30）](./pdfs/02_ベクトル行列演算とCAの数理V1.5.pdf)
+-   [03_CAの数理その２V1.5.pdf](./pdfs/03_CAの数理その２V1.5.pdf)
+-   [04_寄与率.pdf](./pdfs/04_寄与率.pdf)
+
+## 用いるデータセット
+
+-   [05_データセット.pdf](./pdfs/05_データセット.pdf)
+
+## CAとMCAの事例
+
+-   [06_CAとMCA事例V1.0.pdf](./pdfs/06_CAとMCA事例V1.0.pdf)
+-   [06_01](../SSJDA2025summer/06−1CA_step1_smoke.html)、06_02にsmokeの分析スクリプト （15:00）
+-   [07_MCA_01V2.0.pdf](./pdfs/07_MCA_01V2.0.pdf)
+-   [A04_MCAからGDAへV2.0.pdf](./pdfs/A04_MCAからGDAへV2.0.pdf)
+-   [08_01](../SSJDA2025summer/08−1CA_MCA_Q16.html)、08_02にGDAの分析スクリプト
+
+## まとめ
+
+-   [99_まとめMCAの応用.pdf](./pdfs/99_まとめMCAの応用.pdf)
+
+## 参考資料

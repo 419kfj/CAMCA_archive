@@ -1,0 +1,20 @@
+# データ可視化Tools
+
+
+## R package
+
+- ENQview
+- ENQview::ENQview
+- ENQview::Shiny_ca
+
+
+
+## Web アプリ：419kfj.shinyapps.io
+
+- ENQview_lite
+- Shiny_speMCA_lite
+- 
+
+
+## Web アプル：VPS上のshinyアプリ
+
