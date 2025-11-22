@@ -9,6 +9,8 @@
 
 -   第１回 2020/11/14 はじめに：翻訳にあたって)
 
+    -   （作業中）
+
 -   第２回 2021/01/22 第１章〜第３章)
 
     -   <https://www.slideshare.net/slideshow/c-ai-p3jpno2/246378980>
@@ -93,7 +95,11 @@
 
 -   第21回（MCA第11回）
 
+    -   <https://www.slideshare.net/slideshow/21-v1-0-pdf-18-19-20-ida/284228497>
+
 -   第22回（MCA第12回）
+
+    -   作業中
 
 ## 日本社会学会
 
